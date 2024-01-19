@@ -1,7 +1,11 @@
 ### Hi there 👋
+<table>
+  <tr>
+    <td valign="middle"><img src="https://github-readme-stats.vercel.app/api?username=eatenpancreas&show_icons=true&theme=rose"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatenpancreas&layout=donut-vertical&theme=rose"/></td>
+  </tr>
+</table>
 
-![These are my stats](https://github-readme-stats.vercel.app/api?username=eatenpancreas&show_icons=true&theme=rose)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eatenpancreas&layout=donut-vertical&theme=rose)
 
 <!--
 **eatenpancreas/eatenpancreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
