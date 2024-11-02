@@ -1,11 +1,13 @@
 # welcome, {{user}}! i'm...
 ![Static Badge](https://img.shields.io/badge/eaten-pancreas-blue)
 
-## a little about me;
-## huge nerd
-## i love working in strongly typed languages; rust has been by far my favorite
-## i'm currently building projects with leptos as well as projects with tauri
-## also a little obsessed with this silly little game called 'factorio'
+```rs
+a little about me;
+huge nerd
+i love working in strongly typed languages; rust has been by far my favorite
+i'm currently building projects with leptos as well as projects with tauri
+also a little obsessed with this silly little game called 'factorio'
+```
 
 | editor of choice | operating system
 | ---------------- | ----------------
