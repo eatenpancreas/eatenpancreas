@@ -1,8 +1,8 @@
-# welcome, {{user}}! i'm...
+# welcome! i'm...
 ![Static Badge](https://img.shields.io/badge/eaten-pancreas-blue)
 
-```rs
 a little about me;
+```applescript
 huge nerd
 i love working in strongly typed languages; rust has been by far my favorite
 i'm currently building projects with leptos as well as projects with tauri
