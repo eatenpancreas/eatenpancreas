@@ -7,8 +7,10 @@
 ## i'm currently building projects with leptos as well as projects with tauri
 ## also a little obsessed with this silly little game called 'factorio'
 
-* editor of choice: ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
-* operating system: ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+| editor of choice | operating system
+| ---------------- | ----------------
+| ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white) | ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
 
 ## my experience:
 ### languages:
